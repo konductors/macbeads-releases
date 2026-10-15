@@ -3,6 +3,17 @@
     <channel>
         <title>MacBeads</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 15 Oct 2026 18:13:52 +0100</pubDate>
+            <link>https://github.com/konductors/macbeads-releases/releases</link>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A small release to confirm that Updates arrive and install correctly. No other changes.
+]]></description>
+            <enclosure url="https://github.com/konductors/macbeads-releases/releases/download/v0.2.1/MacBeads-0.2.1.zip" length="5105215" type="application/octet-stream" sparkle:edSignature="drrEbv5R80qGZdyL3XQbdZQxzZh8PgjrNqHu90mO0JOYGbDphu0DFD+yS9mmINn48DggF5wOtPaCN+8fvxAjAw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Thu, 15 Oct 2026 18:08:10 +0100</pubDate>
             <link>https://github.com/konductors/macbeads-releases/releases</link>

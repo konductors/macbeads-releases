@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacBeads</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 15 Oct 2026 18:08:10 +0100</pubDate>
+            <link>https://github.com/konductors/macbeads-releases/releases</link>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- MacBeads now tells you when an Update is available, shows what changed, and lets you install it, skip it or be reminded later.
+- Check for Updates… is in the MacBeads menu, and Settings has options for checking and installing automatically.
+- After an Update, the Release notes for the new version appear the first time you open it.
+- Help ▸ MacBeads Release Notes shows the notes for every version.
+]]></description>
+            <enclosure url="https://github.com/konductors/macbeads-releases/releases/download/v0.2.0/MacBeads-0.2.0.zip" length="5105218" type="application/octet-stream" sparkle:edSignature="MVE85CeyttV3PblwOx52iJ9yu9g/4InbWeU7/+kH2eccRgSi4Y17AjAzCLMmUFaRmQUltykoW2vjvlQPI9t+Cg=="/>
+        </item>
+    </channel>
+</rss>

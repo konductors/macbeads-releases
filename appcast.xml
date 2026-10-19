@@ -3,6 +3,20 @@
     <channel>
         <title>MacBeads</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 19 Oct 2026 16:37:57 +0100</pubDate>
+            <link>https://github.com/konductors/macbeads-releases/releases</link>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Organise your projects into Groups. Press + in the project panel and choose New Group…, then drag projects into it, or between its projects to put one in a particular place.
+- A blue bar shows where a dragged project or group will land.
+- Click a group to expand or collapse it; MacBeads remembers which are open. Right-click a group to rename it, Ungroup it, or delete it.
+- Deleting a group removes it and its projects from MacBeads only. Your project folders and their beads are never touched.
+]]></description>
+            <enclosure url="https://github.com/konductors/macbeads-releases/releases/download/v0.3.0/MacBeads-0.3.0.zip" length="5303856" type="application/octet-stream" sparkle:edSignature="KdsJebZIQoD1kql33LKVDpBDFWyW9TKjnRjoQMMjYlsk8X87an6PVNDjRqKVx9byjvYKQFz8Y2Dk3t3yknUmAw=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 15 Oct 2026 18:13:52 +0100</pubDate>
             <link>https://github.com/konductors/macbeads-releases/releases</link>
